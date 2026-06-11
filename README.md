@@ -1,4 +1,4 @@
-# Mavvrik OTel Collector — Fanout Setup
+# OTel Collector — Fanout Setup
 
 Run an OpenTelemetry Collector in Docker that fans out LLM traces to **Mavvrik** and your existing observability backend (Datadog, Grafana Cloud, or any OTLP-compatible service). Three commands and you're done.
 
